@@ -1,3 +1,5 @@
+<?php
+
 /*
 Plugin Name: GitHub Integration
 Plugin URI: http://wordpress.org/extend/plugins/github-integration/
@@ -37,3 +39,5 @@ if (!function_exists('http_build_query')) {
         return implode($arr, $arg_separator);
     }
 }
+
+?>
