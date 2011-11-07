@@ -1,4 +1,4 @@
-=== GitHub Integration ===
+=== GitPress ===
 Contributors: neocotic
 Tags: git, github, shortcodes, wordpress, api, repositories, projects, gists, code, commits, issues, users, pull, requests, orgs, organizations
 Stable tag: 0.1.0.0
