@@ -1,4 +1,4 @@
-github-integration, WordPress plugin to integrate GitHub in to your blog  
+GitPress, WordPress plugin to integrate GitHub in to your blog  
 Copyright (C) 2011 Alasdair Mercer
 
 This program is free software: you can redistribute it and/or modify  
