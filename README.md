@@ -1,4 +1,6 @@
-# [GitPress](http://forchoon.com/projects/plugins/wordpress/gitpress/)
+# [GitPress](http://neocotic.com/GitPress)
+
+Coming soon...
 
 ## TODO
 
